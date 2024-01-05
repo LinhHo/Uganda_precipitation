@@ -1,0 +1,1 @@
+R code to analyse precipitation data from CHIRPS for Uganda, produce plots of raster maps and time series. Author Linh Ho, 2019-05-20, part of work for WEMC (World Energy & Meteorology Council).
